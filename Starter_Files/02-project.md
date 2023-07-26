@@ -1,5 +1,7 @@
 ---
 title: "13: Project 2"
+
+NL and MG
 ---
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m13/lms/img/banner.png" alt="lesson banner" />
 
